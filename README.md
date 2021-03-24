@@ -6,7 +6,3 @@ Scrapping :
 
 Perfectionner :
 https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python/4463152-tirez-parti-de-ce-cours
-
-
-Framework Flask :
-https://openclassrooms.com/fr/courses/4425066-concevez-un-site-avec-flask/4525705-tirez-parti-de-ce-cours
